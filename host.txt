@@ -1,0 +1,9 @@
+#Google for Play Music Battery
+google-analytics.com
+google.com
+googleadservices.com
+googleapis.com
+googlecode.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
